@@ -40,4 +40,4 @@ getblue / getchar / FaceDetector
    <img src="https://github.com/ckid132/Face_Detertor/blob/main/%EC%96%BC%EA%B5%B4%20%EC%B6%94%EC%A0%81.jpg"  width="400" height="400">
 
 # 결과화면
-<img src="https://github.com/ckid132/python-OpenCV-/blob/main/fd.png"  width="400" height="200">        <img src="https://github.com/ckid132/python-OpenCV-/blob/main/fd2.png"  width="400" height="200">
+
